@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dcff09e88d59e74b90d39686644b5fc, type: 3}
+  m_Name: Stage_2
+  m_EditorClassIdentifier: 
+  weaponID: 8
+  score: 15
+  stage: 2
+  tryCount: 3
+  ring: {fileID: 0}
+  prizKnife: {fileID: 21300000, guid: 1c19283b392316e4598ac5fba8ed2f73, type: 3}
+  bossSprite: {fileID: 21300000, guid: 221e918cbfc1dc148b5c38d060e0dd78, type: 3}
+  monsterSprite: {fileID: 21300000, guid: 221e918cbfc1dc148b5c38d060e0dd78, type: 3}
+  monsterHalf1: {fileID: 21300000, guid: f472873f7b65b9149b4f70187b7b4825, type: 3}
+  monsterHalf2: {fileID: 21300000, guid: 84ebf10c538413341b9752c52aef4cad, type: 3}
+  id: 2
+  changeRotate: 0
+  timeToEnd: 15
+  monsterTag: Scat

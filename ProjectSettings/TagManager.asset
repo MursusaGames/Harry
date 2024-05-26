@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Knife
+  - Apple
+  - Ring
+  - Monster
+  - Hero
+  - Iron
+  - Tomate
+  - Ches
+  - superKnife
+  - stone
+  - poop
+  - bullet
+  - egg
+  - silverBullet
+  - bomb
+  - churiken
+  - gas
+  - blessedSword
+  - lightsaber
+  - rocet
+  - nuclear
+  - Carrot
+  - Shark
+  - Meduza
+  - Tykw
+  - Forest
+  - Scat
+  - Sprut
+  - Cactus
+  - Godzy
+  - Water
+  - Fire
+  - Stone
+  - Air
+  - Light
+  - Dark
+  - Mandragora
+  - Nag
+  - Vasilisk
+  - Chucha
+  - Mor
+  - Bes
+  - Host
+  - Vampir
+  - Demon
+  - Death
+  - Avto
+  - Tank
+  - Helik
+  - Ufo
+  - Papir
+  - Molotov
+  - Dron
+  - Molot
+  - Arrow
+  - Ball
+  - Spear
+  - Acid
+  - SmellySock
+  - PepperGas
+  - BananaPeel
+  - OIffensiveWord
+  - Firework
+  - MagicWand
+  - Glue
+  - PoisonArrow
+  - WaterGun
+  - Wall
+  - Word
+  - Chost
+  - Pech
+  - Nog
+  - Attac
+  - Attac2
+  - Blender
+  - Wawa
+  - Sterv
+  - Moika
+  - Nogg
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
